@@ -1,7 +1,3 @@
-# AWS Cloud Native DevOps Platform
-
-This is a complete roadmap and code example for building a professional AWS DevOps project for your resume.
-
 ## 📁 Project Structure
 
 - `terraform/`: Infrastructure as Code for VPC, ALB, and Auto Scaling.
